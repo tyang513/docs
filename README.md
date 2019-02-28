@@ -1,4 +1,4 @@
-git提交备注规范
+#git提交备注规范
 格式 | 说明
 :----------- | :-----------
 feature:JIRA-ID jira summary | 
